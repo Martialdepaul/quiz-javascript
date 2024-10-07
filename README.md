@@ -35,12 +35,12 @@ Le projet est hébergé sur GitHub Pages. Vous pouvez l'essayer directement [ici
 
 1. Clonez le dépôt :  
    ```bash
-   git clone https://github.com/ton-username/javascript-quiz.git
+   git clone https://github.com/Martialdepaul/quiz-javascript.git
    ```
 2. Ouvrez le fichier `index.html` dans votre navigateur préféré pour commencer à jouer !
 
 ## 👨‍💻 Auteur
 
-Projet créé par **[Ton Nom](https://github.com/ton-username)**. N'hésitez pas à me suivre pour plus de projets sympas ! ✨
+Projet créé par **[MARTIAL](https://github.com/Martialdepaul/)**. N'hésitez pas à me suivre pour plus de projets sympas ! ✨
 
 ---
